@@ -9,6 +9,5 @@ $(document).ready(function () {
         speed: 5000,
         draggable: false,
         dots: true,
-        variableWidth: true,
     });
 });
